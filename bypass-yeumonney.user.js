@@ -4,7 +4,7 @@
 // @version      1.3
 // @description  Bypass Yeumoney
 // @author       xGreen
-// @require      https://raw.githubusercontent.com/phantatdung233/bypass-yeumoney/refs/heads/main/bypass_yeumoney.js
+// @require      https://raw.githubusercontent.com/leanhminh2104/bypas-yemonney/refs/heads/main/bypass-yeumonney.js
 // @match        https://yeumoney.com/*
 // @grant        GM_xmlhttpRequest
 // @grant        unsafeWindow
